@@ -1,0 +1,8 @@
+.rep {
+    width: 100vw;
+    height: 1805px;
+    background-image: url(../templates/static/images/testimonials-bg-2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom center;
+}

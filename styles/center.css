@@ -1,0 +1,44 @@
+.center {
+    background-image: url('../templates/static/images/home-intro.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    background-size: cover;
+    width: 100vw;
+    height: 614px;
+}
+
+.center-slogan {
+    font-family: 'GothamProRegular';
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: 10vh;
+    width: max-content;
+    margin: 0 auto;
+    
+}
+.center-slogan li {
+    text-decoration: none;
+    list-style-type: none;
+    margin: 60px;
+}
+.center-slogan li:first-child a {
+    font-size: 38px;
+    
+}
+
+.center-slogan li:nth-child(2) a {
+    font-size: 20px;
+    
+}
+.center-slogan li:nth-child(3) a {
+    margin: 70px;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid;
+    padding: 15px 25px 15px 25px;
+    font-size: 13px;
+}
+
+

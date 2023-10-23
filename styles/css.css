@@ -1,0 +1,10 @@
+@font-face { 
+    font-family: "GothamProRegular";
+    
+    src: url("fonts/GothamPro-Regular.eot");
+    src: url("fonts/GothamPro-Regular.eot?#iefix")format("embedded-opentype"),
+    url("fonts/GothamPro-Regular.woff") format("woff"),
+    url("fonts/GothamPro-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
